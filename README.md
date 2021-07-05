@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 
 
-![RAJ's github stats](https://github-readme-stats.vercel.app/api?username=verreauxblack&show_icons=true&theme=radical)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verreauxblack&theme=radical)
+![RAJ's github stats](https://github-readme-stats.vercel.app/api?username=verreauxblack&show_icons=true&theme=radical)    
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verreauxblack&theme=radical)
 
 
 <!--(https://github.com/anuraghazra/github-readme-stats) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=verreauxblack&repo=CSS_Art)](https://github.com/anuraghazra/github-readme-stats)
