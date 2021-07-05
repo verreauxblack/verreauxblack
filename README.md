@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verreauxblack&theme=tokyonight)
+
 
 
 ![RAJ's github stats](https://github-readme-stats.vercel.app/api?username=verreauxblack&show_icons=true&theme=radical)
