@@ -2,7 +2,7 @@
 <h1>    This is RAJ</h1>
 <p> A Front-End Developer / Designer</p>
 
-
+<img src="devcard.svg" style="float:right;" width="100px" height="150px"/>
 
 
 <!--
