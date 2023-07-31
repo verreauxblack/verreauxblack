@@ -1,9 +1,10 @@
 ### Hi there 👋
-<h1>    This is RAJ</h1>
+<!-- <h1>    This is RAJ</h1>
 <p> A Front-End Developer / Designer</p>
-
+-->
+<!--
 <img src="devcard.svg" style="float:right;" width="100px" height="150px"/>
-
+-->
 
 <!--
 **verreauxblack/verreauxblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ![vistors](https://visitor-badge.laobi.icu/badge?page_id=verreauxblack.verreauxblack)
 
 
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 ![RAJ's github stats](https://github-readme-stats.vercel.app/api?username=verreauxblack&show_icons=true&theme=radical)    
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verreauxblack&theme=radical)
-
+-->
 
 <!--(https://github.com/anuraghazra/github-readme-stats) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=verreauxblack&repo=CSS_Art)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verreauxblack)](https://github.com/anuraghazra/github-readme-stats) -->
