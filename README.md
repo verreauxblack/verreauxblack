@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://daily.dev/verreauxblack"><img src="https://api.daily.dev/devcards/v2/REzqTeN3J.png?type=default&r=xgq" width="356" alt="RAJ's Dev Card"/></a>
 <!--
 ![vistors](https://visitor-badge.laobi.icu/badge?page_id=verreauxblack.verreauxblack)
 
